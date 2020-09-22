@@ -1,2 +1,2 @@
 # AustynBambrookGit
-Austyn's forst GitHub repository
+Austyn's first GitHub repository
